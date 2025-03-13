@@ -6,7 +6,9 @@ Enter any integer between 0 and 100 (inclusive) into the terminal. This will gen
 The array will contain the integer you entered as its number of elements in it.
 For example, if you entered '20' (without the quotation marks), a random array of 20 elements would be generated.
 
-The program will show you your unsorted and sorted arrays after you enter your input.
+The program will then sort the random array's elements from smallest to largest. This is the bubble sort process.
+
+After this, the program will show you your unsorted and sorted arrays. You will see this right after you enter your input.
 The unsorted one will be stored to the 'storearray.txt' file while the sorted one will be stored to the 'sortarray.txt' file.
 The storearray.txt file stores the random array and this is then sorted. The sorted array is then stored in the sortarray.txt file.
 
